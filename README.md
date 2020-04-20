@@ -11,7 +11,7 @@ Note: This code is custom and is not related in any way to Advanced Computer Sof
 
 1. Create your Google reCAPTCHA Site & Secret API Keys by visiting: https://www.google.com/recaptcha/admin. This control will not function correctly without valid reCAPTCHA API keys.
 
-2. Download the latest release from the 'Releases' tab on GitHub and extract the two GooglereCAPTCHA.ascx & GooglereCAPTCHA.ascx.vb files to your 'webcontrols' folder where PSWebEnrolment is deployed on your webserver.
+2. Download the latest release from the 'Releases' tab on GitHub and extract the two GooglereCAPTCHA.ascx & GooglereCAPTCHA.ascx.vb files from the 'ControlFiles' folder in the ZIP to your 'webcontrols' folder where PSWebEnrolment is deployed on your webserver.
 
 3. **In your web.config file**, you will need to add the following two keys under the `<appsettings>` tag. Copy in the relevant API key:
 
