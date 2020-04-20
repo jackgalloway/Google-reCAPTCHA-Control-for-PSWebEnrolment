@@ -1,6 +1,6 @@
 # Google reCAPTCHA Control for PSWebEnrolment
 
-This control allows you to easily add reCAPTCHA verification to your PSWebEnrolment pages.
+This control allows you to easily add reCAPTCHA verification to your PSWebEnrolment pages. I believe Advanced/Compass include some sort of captcha control, but personally I prefer reCAPTCHA due to it's large presence on the internet and familiarity to users.
 
 # Licence/Disclaimer
 The code is licenced under 'The Unlicence'. Feel free to do whatever you want with it. The code is provided 'as is' with no warranty.
@@ -12,7 +12,7 @@ Please log your bug using the 'Issues' tab in GitHub.
 
 # How do I use this?
 
-1. Create your Google reCAPTCHA Site & Secret API Keys by visiting: https://www.google.com/recaptcha/admin. This control will not function correctly without valid reCAPTCHA API keys.
+1. Create your Google reCAPTCHA Site & Secret API Keys by visiting: https://www.google.com/recaptcha/admin. This control will not function correctly without valid reCAPTCHA API keys. It should work for both reCAPTCHA v2 or v3 (only tested on V2).
 
 2. Download the latest release from the 'Releases' tab on GitHub and extract the two GooglereCAPTCHA.ascx & GooglereCAPTCHA.ascx.vb files from the 'ControlFiles' folder in the ZIP to your 'webcontrols' folder where PSWebEnrolment is deployed on your webserver.
 
