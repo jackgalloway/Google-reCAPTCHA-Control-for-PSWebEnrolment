@@ -7,6 +7,9 @@ The code is licenced under 'The Unlicence'. Feel free to do whatever you want wi
 
 Note: This code is custom and is not related in any way to Advanced Computer Software. Please do not contact them for support relating to this control.
 
+# I'd like to report a bug, how can I do this?
+Please log your bug using the 'Issues' tab in GitHub.
+
 # How do I use this?
 
 1. Create your Google reCAPTCHA Site & Secret API Keys by visiting: https://www.google.com/recaptcha/admin. This control will not function correctly without valid reCAPTCHA API keys.
